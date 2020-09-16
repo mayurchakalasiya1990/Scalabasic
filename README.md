@@ -1,6 +1,6 @@
 # Scalabasic
 
-    Scala Basic Concepts
+    Scala Basic Pragramming Concepts
 
     • Scala Hello Program
     • Variable and Data Type
