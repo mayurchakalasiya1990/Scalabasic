@@ -10,3 +10,5 @@
     • Scala for Loop
     • Scala Break Statement
     • Scala Comments
+    • Scala Functions
+    • Higher Order Functions
